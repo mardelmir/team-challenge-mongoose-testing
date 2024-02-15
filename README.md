@@ -26,7 +26,7 @@ La estructura será la siguiente:
 - Diapositivas de ayuda: https://docs.google.com/presentation/d/19YMjg7-9EGuMAnzIWk9SseAK9HlnfR1h/edit?usp=sharing&ouid=110594338309918268653&rtpof=true&sd=true
 
 ## EXTRA
-- GET /postsWithPagination: Endpoint para traer todas las publicaciones de 10 en 10 (paginación). Es decir, si estoy en la pagina 1  me muestra las 10 primeras publicaciones y si estoy en la pagina 2 me muestra las 10 siguientes.
+- GET /postsWithPagination: Endpoint para traer todas las publicaciones de 10 en 10 (paginación). Es decir, si estoy en la página 1  me muestra las 10 primeras publicaciones y si estoy en la página 2 me muestra las 10 siguientes.
 - Implementa validación a la hora de crear un post para que se rellene todos los campos y si no se hace que no deje crear la publicación.
 - Testea el endpoint GET /: Endpoint para traer todas las publicaciones.
 
